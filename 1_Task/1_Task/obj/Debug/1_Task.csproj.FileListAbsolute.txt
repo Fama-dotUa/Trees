@@ -1,0 +1,7 @@
+D:\ДНУ\3 семестр\Карпенко лаби\Trees\1_Task\1_Task\bin\Debug\1_Task.exe.config
+D:\ДНУ\3 семестр\Карпенко лаби\Trees\1_Task\1_Task\bin\Debug\1_Task.exe
+D:\ДНУ\3 семестр\Карпенко лаби\Trees\1_Task\1_Task\bin\Debug\1_Task.pdb
+D:\ДНУ\3 семестр\Карпенко лаби\Trees\1_Task\1_Task\obj\Debug\1_Task.csproj.AssemblyReference.cache
+D:\ДНУ\3 семестр\Карпенко лаби\Trees\1_Task\1_Task\obj\Debug\1_Task.csproj.CoreCompileInputs.cache
+D:\ДНУ\3 семестр\Карпенко лаби\Trees\1_Task\1_Task\obj\Debug\1_Task.exe
+D:\ДНУ\3 семестр\Карпенко лаби\Trees\1_Task\1_Task\obj\Debug\1_Task.pdb
